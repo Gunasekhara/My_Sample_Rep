@@ -5,6 +5,7 @@ public class Test
 	int x=10;
         System.out.println( "Hello World!" );
 	 System.out.println( "x value is ="+x );
+         System.out.println( "Hello Dhana!" );
 
     }
 }
